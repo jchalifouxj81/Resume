@@ -1,0 +1,51 @@
+body{
+  background-color: #D8393c;
+  text-align: center;
+}
+
+.fa-brands{
+  color: blue;
+}
+
+.fa-solid{
+  color: blue;
+}
+
+html{
+  color: #fff;
+  font-family: cursive;
+}
+
+a:link, a:visited {
+  background-color: white;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+}
+
+a:link{
+  color:hotpink;
+  text-decoration: none;
+}
+
+a:visited{
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover{
+  color: orange;
+  text-decoration: underline;
+}
+
+a:active{
+  color: yellow;
+  text-decoration: underline;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0,
+}
