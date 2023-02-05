@@ -49,3 +49,23 @@ ul{
   margin: 0;
   padding: 0,
 }
+/* styles for index. */
+div{
+  background-color: #39d8d5;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+/* styles for about, education and experience */
+header{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #39d8d5;
+  color: #fff;
+  font-family: cursive;
+}
